@@ -1,0 +1,7 @@
+target/
+apache-maven-3.9.6/
+maven.zip
+*.log
+.vscode/
+.idea/
+*.class
